@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+.card {
+    font-size: 5em;
+}
+
+input {
+    background-color: yellowgreen;
+    border-style: double;
+}
